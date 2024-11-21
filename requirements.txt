@@ -1,4 +1,5 @@
 flask
-flask-login
-tinydb
-werkzeug
+pymongo
+dnspython
+python-dotenv
+flask-bcrypt
